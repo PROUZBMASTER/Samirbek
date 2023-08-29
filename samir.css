@@ -1,0 +1,157 @@
+body{
+    background: linear-gradient(to right, lightgray , rgb(65, 61, 61),  rgb(10, 10, 10));
+}
+
+#d1{
+    border: 2px solid grey;
+    height: 860px;
+    width: 300px;
+    border-radius: 10px;
+    text-align: center;
+    background: linear-gradient(to left, red , blue );
+   
+    float: right;
+    margin-right: 100px;
+}
+.d1{
+    font-size: medium;
+}
+#ddd{
+    position: relative;
+    top: 20px;
+    
+    font-size: 30px;
+   
+
+}
+a:active{
+    color: greenyellow;
+}
+a:link{
+     color: rgb(154, 111, 194);
+  
+}
+a:hover{
+    color: aqua;
+}
+a:visited{
+    color: yellow;
+}
+
+
+#wer{
+    border: 2px solid grey;
+      width: 920px;
+      height: 375px;
+      text-align: center;
+     font-size: larger;
+     background: rgb(245, 74, 74);
+     border-radius: 5px;
+}
+#sa12{
+     border: 2px solid grey;
+      width: 920px;
+      height: 360px;
+      text-align: center;
+     font-size: larger;
+     background: rgb(122, 122, 233);
+     border-radius: 5px;
+}
+#wet{
+    border: 2px solid gray;
+    width: 920px;
+    height: 80px;
+    position: sticky;
+    bottom: 0px;
+    background: linear-gradient(to left top , red, blue);
+    text-align: center;
+    font-size: larger;
+}
+.sa13{
+   position: relative;
+   top: 10px;
+   bottom: 200px;
+    
+   
+    
+}
+.d2{
+     position: absolute;
+     top: 200px;
+     left: 76%;
+     right: 50px;
+}
+.d3{
+    position: relative;
+    top: 15px;
+}
+
+img{
+
+    border-radius: 10px;
+    width: 200px;
+   
+    
+   
+
+}
+.p1{
+    position: relative;
+    top: 350px;
+}
+#p2{
+    position: relative;
+    top: 350px;
+}
+#p3{
+    position: relative;
+    top: 353px;
+}
+#p4{
+    position: relative;
+    top: 354px;
+}
+#p5{
+    position: relative;
+    top: 356px;
+}
+#p6{
+    position: relative;
+    top: 357px;
+}
+#p7{
+    position: relative;
+    top: 358px;
+}
+#p8{
+    position: relative;
+    top: 359px;
+}
+#p9{
+    position: relative;
+    top: 360px;
+}
+#p10{
+    position: relative;
+    top: 361px;
+}
+#p11{
+    position: relative;
+    top: 362px;
+}
+#p12{
+    position: relative;
+    top: 363px;
+}
+#p13{
+    position: relative;
+    top: 364px;
+}
+#p14{
+    position: relative;
+    top: 365px;
+}
+#p15{
+    position: relative;
+    top: 366px;
+}
